@@ -1,0 +1,21 @@
+{
+	"INTERNAL DB ERROR": "INTERNAL DB ERROR",
+	"You have registered successfully.Please verify your email account.": "You have registered successfully.Please verify your email account.",
+	"Email address already exist": "Email address already exist",
+	"Your account is not activated. Please activate your account.": "Your account is not activated. Please activate your account.",
+	"Verification code is not valid.": "Verification code is not valid.",
+	"Wrong password or email. Please provide registered details.": "Wrong password or email. Please provide registered details.",
+	"Logged your account": "Logged your account",
+	"Your account has been activated successfully.": "Your account has been activated successfully.",
+	"Email address is not valid.": "Email address is not valid.",
+	"Please check your registered email address. We send you verification code.": "Please check your registered email address. We send you verification code.",
+	"Job Posted Successfully": "Job Posted Successfully",
+	"please provide valid email address": "please provide valid email address",
+	"please provide company name": "please provide company name",
+	"Job list.": "Job list.",
+	"Company list.": "Company list.",
+	"please provide first name": "please provide first name",
+	"please provide verification code": "please provide verification code",
+	"Job applied successfully": "Job applied successfully",
+	"Company Updated Successfully": "Company Updated Successfully"
+}
